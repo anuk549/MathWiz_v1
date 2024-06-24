@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="mathwiz">MathWiz</string>
+    <string name="master_math_with_ease">Master Math with Ease</string>
+    <string name="boost_your_math_skills_with_n_fun_addition_and_subtraction_quizzes">Boost your math skills with \n fun addition and subtraction quizzes!</string>
+    <string name="done">Done</string>
+    <string name="start_game">START GAME</string>
+    <string name="next">Next!</string>
+    <string name="_0">0</string>
+    <string name="clear">Clear</string>
+    <string name="_9">9</string>
+    <string name="_8">8</string>
+    <string name="_7">7</string>
+    <string name="_6">6</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Green Colors -->
+    <color name="green_500">#43c000</color>
+    <color name="green_400">#58cc02</color>
+    <color name="green_300">#89e219</color>
+    <color name="green_200">#99E33D</color>
+    <color name="green_100">#ACDD6D</color>
+
+    <!-- Grey Colors -->
+    <color name="grey_100">#f7f7f7</color>
+    <color name="grey_200">#e5e5e5</color>
+    <color name="grey_300">#afafaf</color>
+    <color name="grey_400">#777777</color>
+    <color name="grey_500">#4b4b4b</color>
+
+    <!-- Additional Colors -->
+    <color name="red_500">#ff4b4b</color>
+</resources>
